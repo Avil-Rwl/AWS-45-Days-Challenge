@@ -8,4 +8,4 @@ Welcome to my 45-day hands-on journey learning AWS Cloud Engineering, architectu
 Core Skills Practiced
 Compute: AWS EC2, Security Groups, User Data Shell Scripts.
 Storage & DR: EBS Volumes, Snapshots, Cross-Instance Data Restoration.
-Linux CLI:ext4`File Systems, Mount Management, Journal Recovery (`e2fsck`).
+Linux CLI:ext4`File Systems, Mount Management, Journal Recovery .
