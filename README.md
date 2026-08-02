@@ -16,4 +16,4 @@ Core Skills Practiced
 Compute: AWS EC2, Security Groups, User Data Shell Scripts, Custom AMIs (Golden Images).
 Storage & Disaster Recovery:** EBS Volumes, Snapshots, Cross-Instance Data Restoration.
 Networking & High Availability:** Application Load Balancer (ALB), Target Groups, HTTP Health Checks, Dynamic Traffic Routing.
-Linux Administration:** `ext4` File Systems, Mount Management, Journal Recovery.
+Linux Administration: `ext4` File Systems, Mount Management, Journal Recovery.
