@@ -22,12 +22,7 @@ Launched the EC2 instance and supplied the following **User Data script** to aut
 
 ```bash
 #!/bin/bash
-# Update software packages
 yum update -y
-
-# Install Apache Web Server
 yum install -y httpd
-
-# Start & enable Apache service on boot
 systemctl start httpd
 systemctl enable httpd
