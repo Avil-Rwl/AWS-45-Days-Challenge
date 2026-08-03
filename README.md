@@ -10,6 +10,7 @@ Welcome to my 45-day hands-on journey learning AWS Cloud Engineering, architectu
 | Day 01 | Deploying Apache Web Server on AWS EC2 | ✅ Completed | [View Day 01](./Day-01-EC2.md) |
 | Day 02 | EBS Snapshots & Disaster Recovery Restoration | ✅ Completed | [View Day 02](./Day-02-EBS%20%26%20SNAPSHOT.md) |
 | Day 03 | High Availability Architecture using ALB, Target Groups & Custom AMI | ✅ Completed | [View Day 03](./Day-03-ALB-AMI-HA.md) |
+| Day 04 | S3, Hybrid Storage & RDS | [View Day-04-AWS-S3.md](./Day-04-AWS-S3.md) |  
 
 
 Core Skills Practiced
